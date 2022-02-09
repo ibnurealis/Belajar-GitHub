@@ -1,7 +1,8 @@
-Hello World
+Hello Dunia
 ==
 Saya Akan Belajar GitHub Lebih Jauh Lagi
 --
 
 
-hallo budi
+Hallo Ayu
+
